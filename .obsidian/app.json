@@ -1,0 +1,8 @@
+{
+  "promptDelete": false,
+  "livePreview": false,
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": true,
+  "newLinkFormat": "absolute",
+  "newFileLocation": "current"
+}

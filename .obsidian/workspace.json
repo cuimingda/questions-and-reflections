@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0f1590b807ea8d48",
+        "id": "34c638c933c2c951",
         "type": "tabs",
         "children": [
           {
-            "id": "538103cf9d1e5110",
+            "id": "35c5f5425be85a5d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SUMMARY.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "SUMMARY"
+              "title": "New tab"
             }
           }
         ]
@@ -132,21 +128,9 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
-          },
-          {
-            "id": "25b07be4b4667e76",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "SUMMARY.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of SUMMARY"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -165,24 +149,25 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "538103cf9d1e5110",
+  "active": "b85e5b6b0e19de7b",
   "lastOpenFiles": [
-    "_book/C1.拖延症和思维陷阱/13.条件性关注.html",
-    "_book/C1.拖延症和思维陷阱/18.富裕阶层的彩礼.html",
-    "_book/C1.拖延症和思维陷阱/01.对拖延症的自我观察.html",
+    "SUMMARY.md",
+    "mybook.epub",
+    "README.md",
+    "C1.拖延症和思维陷阱/README.md",
+    "C1.拖延症和思维陷阱/04.环境对认知模式的影响.md",
     "_book/index.html",
     "_book/C1.拖延症和思维陷阱/20.总结.html",
     "_book/C1.拖延症和思维陷阱/19.婚姻的变化.html",
+    "_book/C1.拖延症和思维陷阱/18.富裕阶层的彩礼.html",
     "_book/C1.拖延症和思维陷阱/17.女人作为产品的回报.html",
     "_book/C1.拖延症和思维陷阱/16.无条件的长期联盟.html",
     "_book/C1.拖延症和思维陷阱/15.彩礼是婚姻的条件.html",
     "_book/C1.拖延症和思维陷阱/14.无条件支持的关系.html",
-    "_book/C1.拖延症和思维陷阱/12.爱与支持的影响.html",
+    "_book/C1.拖延症和思维陷阱/13.条件性关注.html",
     "C1.拖延症和思维陷阱/02.三个思维陷阱.md",
     "C1.拖延症和思维陷阱/01.对拖延症的自我观察.md",
-    "SUMMARY.md",
     "C1.拖延症和思维陷阱/03.灾难化思维.md",
-    "README.md",
     "C1.拖延症和思维陷阱/12.爱与支持的影响.md",
     "C1.拖延症和思维陷阱/08.对负面信息敏感.md",
     "C1.拖延症和思维陷阱/18.富裕阶层的彩礼.md",
@@ -200,8 +185,6 @@
     "_book/C1/06.否定的滤镜.md",
     "_book/C1/04.环境对认知模式的影响.md",
     "_book/C1/03.灾难化思维.md",
-    "_book/C1/02.对拖延症的自我观察.md",
-    "_book/C1/12.爱与支持的影响.md",
-    "_book/C1/11.对自己不够好的恐惧.md"
+    "_book/C1/02.对拖延症的自我观察.md"
   ]
 }

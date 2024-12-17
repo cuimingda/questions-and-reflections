@@ -4,9 +4,9 @@
   "scripts": {
     "build": "honkit build",
     "serve": "honkit serve",
-    "pdf": "honkit pdf ./ ./mybook.pdf",
-    "epub": "honkit epub ./ ./mybook.epub",
-    "mobi": "honkit mobi ./ ./mybook.mobi"
+    "pdf": "honkit pdf ./ ~/Downloads/提问和思考：关于我和这个世界.pdf",
+    "epub": "honkit epub ./ ~/Downloads/提问和思考：关于我和这个世界_1.0.epub",
+    "mobi": "honkit mobi ./ ~/Downloads/提问和思考：关于我和这个世界.mobi"
   },
   "keywords": [],
   "author": "",
